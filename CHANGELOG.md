@@ -1,3 +1,9 @@
+## [1.4.0](https://github.com/jamartinezv-gsc/release-test/compare/v1.3.2...v1.4.0) (2025-12-12)
+
+### ✨ Features
+
+* add playwrigth ([1e3c86c](https://github.com/jamartinezv-gsc/release-test/commit/1e3c86c754eb98d569f4b494ff9589518eaf551c))
+
 ## [1.3.2](https://github.com/jamartinezv-gsc/release-test/compare/v1.3.1...v1.3.2) (2025-12-12)
 
 ### 🐛 Bug Fixes
