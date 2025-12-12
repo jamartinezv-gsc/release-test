@@ -74,7 +74,12 @@
         [
             "@semantic-release/github",
             {
-                "assets": []
+                "assets": [
+                    {
+                        "path": "dist/**/*",
+                        "label": "Build artifacts"
+                    }
+                ]
             }
         ],
         [
