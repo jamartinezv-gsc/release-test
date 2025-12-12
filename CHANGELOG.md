@@ -1,3 +1,9 @@
+## [1.2.0](https://github.com/jamartinezv-gsc/release-test/compare/v1.1.0...v1.2.0) (2025-12-12)
+
+### ✨ Features
+
+* resta ([e498618](https://github.com/jamartinezv-gsc/release-test/commit/e49861859df568a2a3592222c292e96b8b8f2cf3))
+
 ## [1.1.0](https://github.com/jamartinezv-gsc/release-test/compare/v1.0.1...v1.1.0) (2025-12-12)
 
 ### ✨ Features
