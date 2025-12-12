@@ -1,3 +1,9 @@
+## [1.3.1](https://github.com/jamartinezv-gsc/release-test/compare/v1.3.0...v1.3.1) (2025-12-12)
+
+### 🐛 Bug Fixes
+
+* create github page ([f5eb2ec](https://github.com/jamartinezv-gsc/release-test/commit/f5eb2ec711a577fff33bd7c0fd52ff7c771504a4))
+
 ## [1.3.0](https://github.com/jamartinezv-gsc/release-test/compare/v1.2.0...v1.3.0) (2025-12-12)
 
 ### ✨ Features
