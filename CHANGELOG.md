@@ -1,3 +1,9 @@
+## [1.3.2](https://github.com/jamartinezv-gsc/release-test/compare/v1.3.1...v1.3.2) (2025-12-12)
+
+### 🐛 Bug Fixes
+
+* dai link releases ([d194255](https://github.com/jamartinezv-gsc/release-test/commit/d1942555c1a3a701b005c881506c1fbd0c05c933))
+
 ## [1.3.1](https://github.com/jamartinezv-gsc/release-test/compare/v1.3.0...v1.3.1) (2025-12-12)
 
 ### 🐛 Bug Fixes
