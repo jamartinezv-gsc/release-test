@@ -1,3 +1,9 @@
+## [1.3.0](https://github.com/jamartinezv-gsc/release-test/compare/v1.2.0...v1.3.0) (2025-12-12)
+
+### ✨ Features
+
+* add coverage ([8b2330f](https://github.com/jamartinezv-gsc/release-test/commit/8b2330ff757fa14ec13fa75d70233144e2f2475d))
+
 ## [1.2.0](https://github.com/jamartinezv-gsc/release-test/compare/v1.1.0...v1.2.0) (2025-12-12)
 
 ### ✨ Features
