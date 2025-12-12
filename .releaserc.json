@@ -76,15 +76,15 @@
             {
                 "assets": [
                     {
-                        "path": "dist/dai.mjs",
+                        "path": "dist/lib/dai.mjs",
                         "label": "Dai (ESM)"
                     },
                     {
-                        "path": "dist/dai.umd.js",
+                        "path": "dist/lib/dai.umd.js",
                         "label": "Dai (UMD)"
                     },
                     {
-                        "path": "dist/dai.js",
+                        "path": "dist/lib/dai.js",
                         "label": "Dai (CJS)"
                     }
                 ]
