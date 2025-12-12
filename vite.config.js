@@ -20,7 +20,7 @@ export default defineConfig(({ command }) => {
 			lib: {
 				entry: resolve(__dirname, "src/index.js"),
 				name: "dai",
-				formats: ["es"],
+				formats: ["es", "cjs", "umd"],
 				fileName: "dai",
 			},
 			emptyOutDir: false,
