@@ -76,8 +76,16 @@
             {
                 "assets": [
                     {
-                        "path": "dist/**/*",
-                        "label": "Build artifacts"
+                        "path": "dist/dai.mjs",
+                        "label": "Dai (ESM)"
+                    },
+                    {
+                        "path": "dist/dai.umd.js",
+                        "label": "Dai (UMD)"
+                    },
+                    {
+                        "path": "dist/dai.js",
+                        "label": "Dai (CJS)"
                     }
                 ]
             }
