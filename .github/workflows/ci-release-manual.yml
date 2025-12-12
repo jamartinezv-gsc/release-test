@@ -19,7 +19,7 @@ permissions:
 
 jobs:
   tests:
-    if: ${{ inputs.run_tests == 'true' }}
+    if: ${{ inputs.run_tests == true }}
     name: Run tests (Node matrix)
     runs-on: ubuntu-latest
     timeout-minutes: 15
