@@ -2,9 +2,8 @@ import { resolve } from "node:path";
 import { defineConfig } from "vite";
 
 export default defineConfig(({ command }) => {
-	const isBuild = command === "build";
-
 	return {
+		root: "./server",
 		server: {
 			open: true,
 			middlewareMode: false,
