@@ -51,12 +51,6 @@ jobs:
       - name: Build project
         run: pnpm build 
 
-      - name: List 
-        run: ls -lh
-
-      - name: List dist
-        run: ls -lh dist/ 
-
       - name: List dist/lib
         run: ls -lh dist/lib/ 
 
