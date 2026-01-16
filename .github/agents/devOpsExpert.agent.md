@@ -1,6 +1,6 @@
 ---
 description: 'Experto en generacion de Github actions'
-tools: []
+tools: ['edit/createFile', 'edit/createDirectory', 'edit/editFiles']
 ---
 # Prompt: Agente Especializado en GitHub Actions
 

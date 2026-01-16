@@ -2,9 +2,8 @@ import { resolve } from "node:path";
 import { defineConfig } from "vite";
 
 export default defineConfig(({ command }) => {
-	const isBuild = command === "build";
-
 	return {
+		root: "./server",
 		server: {
 			open: true,
 			middlewareMode: false,
@@ -20,7 +19,7 @@ export default defineConfig(({ command }) => {
 			lib: {
 				entry: resolve(__dirname, "src/index.js"),
 				name: "dai",
-				formats: ["es"],
+				formats: ["es", "cjs", "umd"],
 				fileName: "dai",
 			},
 			emptyOutDir: false,

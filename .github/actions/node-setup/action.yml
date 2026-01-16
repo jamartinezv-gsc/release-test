@@ -1,0 +1,24 @@
+name: Basic Init Workflow
+description: Setup Node.js environment with pnpm and install dependencies
+
+inputs:
+  node_version:
+    description: Node version
+    required: false
+    default: 22
+
+runs:
+  using: "composite"
+  steps:
+    - name: Instalar pnpm
+      uses: pnpm/action-setup@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v6
+      with:
+        node-version: ${{ inputs.node_version }}
+        cache: 'pnpm'
+
+    - name: Install dependencies
+      run: pnpm install --frozen-lockfile
+      shell: bash
