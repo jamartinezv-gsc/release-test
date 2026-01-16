@@ -51,6 +51,12 @@ jobs:
       - name: Build project
         run: pnpm build 
 
+      - name: List dist
+        run: ls -lh dist/ 
+
+      - name: List dist/lib
+        run: ls -lh dist/lib/ 
+
       - name: Semantic Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
