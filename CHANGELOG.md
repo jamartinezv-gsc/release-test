@@ -1,3 +1,9 @@
+## [1.5.1](https://github.com/jamartinezv-gsc/release-test/compare/v1.5.0...v1.5.1) (2026-01-16)
+
+### 🐛 Bug Fixes
+
+* add assets release ([3fa38be](https://github.com/jamartinezv-gsc/release-test/commit/3fa38be3404f8e039e211dc622ea99fd1f1f0849))
+
 ## [1.5.0](https://github.com/jamartinezv-gsc/release-test/compare/v1.4.0...v1.5.0) (2026-01-16)
 
 ### ✨ Features
