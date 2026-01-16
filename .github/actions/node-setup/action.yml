@@ -1,4 +1,5 @@
 name: Basic Init Workflow
+description: Setup Node.js environment with pnpm and install dependencies
 
 inputs:
   node_version:
