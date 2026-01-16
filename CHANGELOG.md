@@ -1,3 +1,9 @@
+## [1.5.0-develop.1](https://github.com/jamartinezv-gsc/release-test/compare/v1.4.0...v1.5.0-develop.1) (2026-01-16)
+
+### ✨ Features
+
+* add multiplica function ([288ccc2](https://github.com/jamartinezv-gsc/release-test/commit/288ccc20deb2ce5277c9435a7daa87f58804d620))
+
 ## [1.4.0](https://github.com/jamartinezv-gsc/release-test/compare/v1.3.2...v1.4.0) (2025-12-12)
 
 ### ✨ Features
